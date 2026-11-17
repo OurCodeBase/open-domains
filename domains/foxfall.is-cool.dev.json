@@ -1,0 +1,13 @@
+{
+  "description": "FOXFall - An all-in-one media manager for creators, available as a desktop application and command-line interface.",
+  "domain": "is-cool.dev",
+  "subdomain": "foxfall",
+  "owner": {
+    "repo": "https://github.com/phantomguy282-dev/FOXFall-website",
+    "email": "phantomguy282@gmail.com"
+  },
+  "record": {
+    "CNAME": "phantomguy282-dev.github.io"
+  },
+  "proxied": false
+}
